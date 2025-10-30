@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Harmonia - Advanced Music Player",
+  "description": "A modern music player that accurately displays detailed metadata for various audio formats, including WAV. It solves common issues like garbled artist names and missing album art, providing a clean and intuitive interface for your listening experience.",
+  "requestFramePermissions": []
+}
